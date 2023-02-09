@@ -1,2 +1,2 @@
 # RickAndMortyAPI-ReactNative
-Rick and morty consume API with React Native
+Mobile APP Rick and morty consume API with React Native
